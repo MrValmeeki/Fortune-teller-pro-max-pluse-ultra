@@ -28,7 +28,7 @@ int main()
     else if (45 < n && n <= 60)
         cout << "Nothing special today, just a normal day for you i guess \n";
     // 69 - 68
-    else if (68 < n && n <= 68)
+    else if (68 < n && n <= 69)
         cout << "You can expect good things happening today \n";
     // 69
     else if (n == 69)
